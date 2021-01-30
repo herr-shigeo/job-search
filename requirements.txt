@@ -1,0 +1,9 @@
+numpy
+wheel
+pandas
+lxml
+bottle
+html5lib
+beautifulsoup4
+requests
+mechanize
